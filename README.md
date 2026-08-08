@@ -1,6 +1,8 @@
 * **WEBO - Under Development**
 WebO fetches a web page (or crawls a whole site), then prints a detailed report covering metadata, SEO, links, images, media, forms, tables, structured data, security headers, SSL info, detected technologies, keyword density, contact info, and more — directly to your terminal. Reports can also be exported to JSON, CSV, or plain text.
 
+WebO is explicitly made for Lightweight and Safe Scraping.
+
 * **Commands (`com`):**
 ```bash
 python webo.py example.com
